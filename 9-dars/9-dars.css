@@ -1,0 +1,105 @@
+.box1 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190726_259.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.typ1 {
+  text-align: center;
+  font-size: 50px;
+}
+.box2 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190726_259.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+img{
+  width: 300px;
+  height: 300px;
+
+}
+
+.box4 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190726_259.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: rgb(2, 7, 49);
+  font-size: 60px;
+}
+.heading1 {
+  text-align: center;
+}
+.box5 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190741_343.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: auto;
+  text-align: center;
+  color: red;
+  font-size: 60px;
+}
+.box6 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190726_259.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: green;
+  font-size: 60px;
+}
+.box7 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190741_639.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: pink;
+  font-size: 60px;
+}
+.box8 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./IMG_20230529_190726_259.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: yellow;
+  font-size: 60px;
+}
+.box9 {
+  width: 100%;
+  height: 1000px;
+  background-image: url(./photo_2023-06-10_23-52-43.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: red;
+  font-size: 60px;
+}

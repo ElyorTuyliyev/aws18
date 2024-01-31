@@ -1,0 +1,77 @@
+$mysize: 10px;
+$primary-color: red;
+$white-color: white;
+
+body {
+  margin: 0;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: $primary-color;
+}
+
+nav {
+  h1 {
+    font-size: 20px;
+  }
+
+  p {
+    background-color: blue;
+    color: white;
+  }
+
+  div {
+    background-color: yellow;
+  }
+
+  .button {
+    border-radius: 10px;
+
+    span {
+      color: red;
+    }
+  }
+}
+
+.heading,
+.title {
+  p,
+  span {
+    background-color: darkmagenta;
+    color: white;
+    font-size: 30px;
+  }
+}
+
+// nesting juda foydali va css ni tartibli
+// qilishda katta yordam beradi leki undan noto'g'ri foydalanish
+// salibiy oqibatlarga olib keladi
+// odatda nesting darajasi 3tadan owmasligi tavsiya qilinadi
+
+// sass properties
+
+.heading {
+  font: {
+    size: 30px;
+    family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+}
+
+$red: red;
+
+.heading {
+  $blue: blue;
+  color: $blue;
+}
+
+.title {
+  color: $red;
+}
+
+@debug 20s + 30s;
+@debug 20px + 30s;

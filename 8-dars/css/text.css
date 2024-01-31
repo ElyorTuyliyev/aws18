@@ -1,0 +1,35 @@
+.blok{
+    font-size: 20;
+    background-color:rgba(174, 40, 174, 0.674)
+    
+}
+#red {
+  text-align: center;
+  font-size: 25px;
+  color: aqua;
+}
+.text-align {
+  text-align: center;
+  font-size: 25px;
+  color: color-mix(in srgb, color percentage, color percentage);
+}
+#del {
+  text-align: center;
+  font-size: 35px;
+  color: rgb(122, 122, 178);
+}
+.color-red {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(88, 82, 82);
+}
+#music {
+  text-align: center;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.www3chool{
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}

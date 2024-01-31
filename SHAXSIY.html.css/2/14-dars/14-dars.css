@@ -1,0 +1,21 @@
+.link:link {
+  color:yellow;
+}
+.link1:hover {
+  color: red;
+  background-color: yellow;
+  padding: 10px 20px;
+  text-decoration: none;
+  width: 100px;
+}
+.link2:active {
+  color: red;
+  padding: 20px 30px;
+}
+.link3:visited{
+color:navy;
+
+}
+.border td,th{
+border-collapse:collapse ;
+}

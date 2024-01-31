@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+text-decoration: dotted;
+}
+p{
+    text-transform: capitalize;
+    text-align: center;
+    word-break: keep-all;
+}
+a{
+    text-decoration: none;
+    color: red;
+    
+}

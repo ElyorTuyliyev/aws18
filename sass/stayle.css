@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: red;
+}
+
+nav h1 {
+  font-size: 20px;
+}
+nav p {
+  background-color: blue;
+  color: white;
+}
+nav div {
+  background-color: yellow;
+}
+nav .button {
+  border-radius: 10px;
+}
+nav .button span {
+  color: red;
+}
+
+.heading p,
+.heading span,
+.title p,
+.title span {
+  background-color: darkmagenta;
+  color: white;
+  font-size: 30px;
+}
+
+.heading {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.heading {
+  color: blue;
+}
+
+.title {
+  color: red;
+}/*# sourceMappingURL=stayle.css.map */

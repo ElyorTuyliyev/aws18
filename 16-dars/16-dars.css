@@ -1,0 +1,17 @@
+p {
+  max-width: 500px;
+  width: 500px;
+  height: 100px;
+  border: 3px solid;
+  border-radius: 5px;
+  margin: 50px 50px;
+}
+p:hover {
+  max-width: 500px;
+  width: 500px;
+  height: 100px;
+  border: 3px solid;
+  border-radius: 5px;
+  outline: 5px solid red;
+  background-color: aliceblue;
+}
